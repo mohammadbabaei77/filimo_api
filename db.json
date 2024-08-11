@@ -4,55 +4,56 @@
       "id": 1,
       "menu_title": "فیلیموتور",
       "image": "./public/images/filimo_tour.png",
-      "sub_menu": ""
+      "dropdown": []
     },
     {
       "id": 2,
       "menu_title": "فیلم",
       "image": "",
-      "sub_menu": ""
+      "dropdown": []
     },
     {
       "id": 3,
       "menu_title": "سریال",
       "image": "",
-      "sub_menu": ""
+      "dropdown": []
     },
     {
       "id": 4,
       "menu_title": "ایرانی",
       "image": "",
-      "sub_menu": ""
+      "dropdown": []
     },
     {
       "id": 5,
       "menu_title": "خارجی",
       "image": "",
-      "sub_menu": ""
+      "dropdown": []
     },
     {
       "id": 6,
       "menu_title": "مجموعه ها",
       "image": "",
-      "sub_menu": ""
+      "dropdown": []
     },
     {
       "id": 7,
       "menu_title": "فیلیمومدرسه",
       "image": "./public/images/filimo_school.png",
-      "sub_menu": ""
+      "dropdown": []
     },
     {
       "id": 8,
       "menu_title": "کودک",
       "image": "./public/images/children.png",
-      "sub_menu": ""
+      "dropdown": []
     },
     {
       "id": 9,
       "menu_title": "جستجو",
       "image": "./public/images/search.png",
-      "sub_menu": ""
+      "dropdown": []
     }
-  ]
+  ],
+  "cover":[]
 }
