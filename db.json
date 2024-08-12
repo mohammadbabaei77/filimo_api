@@ -4,55 +4,64 @@
       "id": 1,
       "menu_title": "فیلیموتور",
       "image": "./public/images/filimo_tour.png",
-      "dropdown": []
+      "dropdown": [],
+      "svg": "null"
     },
     {
       "id": 2,
       "menu_title": "فیلم",
       "image": "null",
-      "dropdown": []
+      "dropdown": [],
+      "svg": "./public/images/svgexport-6.png"
     },
     {
       "id": 3,
       "menu_title": "سریال",
       "image": "null",
-      "dropdown": []
+      "dropdown": [],
+      "svg": "./public/images/svgexport-6.png"
     },
     {
       "id": 4,
       "menu_title": "ایرانی",
       "image": "null",
-      "dropdown": []
+      "dropdown": [],
+      "svg": "null"
     },
     {
       "id": 5,
       "menu_title": "خارجی",
       "image": "null",
-      "dropdown": []
+      "dropdown": [],
+      "svg": "null"
     },
     {
       "id": 6,
       "menu_title": "مجموعه ها",
       "image": "null",
-      "dropdown": []
+      "dropdown": [],
+      "svg": "./public/images/svgexport-6.png"
     },
     {
       "id": 7,
       "menu_title": "فیلیمومدرسه",
       "image": "./public/images/filimo_school.png",
-      "dropdown": []
+      "dropdown": [],
+      "svg": "null"
     },
     {
       "id": 8,
       "menu_title": "کودک",
       "image": "./public/images/children.png",
-      "dropdown": []
+      "dropdown": [],
+      "svg": "./public/images/svgexport-6.png"
     },
     {
       "id": 9,
       "menu_title": "جستجو",
       "image": "./public/images/search.png",
-      "dropdown": []
+      "dropdown": [],
+      "svg": "null"
     }
   ],
   "cover":[]
