@@ -9,31 +9,31 @@
     {
       "id": 2,
       "menu_title": "فیلم",
-      "image": "",
+      "image": "null",
       "dropdown": []
     },
     {
       "id": 3,
       "menu_title": "سریال",
-      "image": "",
+      "image": "null",
       "dropdown": []
     },
     {
       "id": 4,
       "menu_title": "ایرانی",
-      "image": "",
+      "image": "null",
       "dropdown": []
     },
     {
       "id": 5,
       "menu_title": "خارجی",
-      "image": "",
+      "image": "null",
       "dropdown": []
     },
     {
       "id": 6,
       "menu_title": "مجموعه ها",
-      "image": "",
+      "image": "null",
       "dropdown": []
     },
     {
