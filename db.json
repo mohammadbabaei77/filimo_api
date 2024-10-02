@@ -131,5 +131,51 @@
       "svg": "null"
     }
   ],
-  "cover": []
+  "cover": [
+    {
+      "id": 1,
+      "image": "./public/images/cover_1.png",
+      "alt": "cover1"
+    },
+    {
+      "id": 2,
+      "image": "./public/images/cover_2.png",
+      "alt": "cover2"
+    },
+    {
+      "id": 3,
+      "image": "./public/images/cover_3.webp",
+      "alt": "cover3"
+    },
+    {
+      "id": 4,
+      "image": "./public/images/cover_4.webp",
+      "alt": "cover4"
+    },
+    {
+      "id": 5,
+      "image": "./public/images/cover_5.webp",
+      "alt": "cover5"
+    },
+    {
+      "id": 6,
+      "image": "./public/images/cover_6.webp",
+      "alt": "cover6"
+    },
+    {
+      "id": 7,
+      "image": "./public/images/cover_7.webp",
+      "alt": "cover7"
+    },
+    {
+      "id": 8,
+      "image": "./public/images/cover_8.webp",
+      "alt": "cover8"
+    },
+    {
+      "id": 9,
+      "image": "./public/images/cover_9.webp",
+      "alt": "cover9"
+    }
+  ]
 }
